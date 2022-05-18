@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lettingitslide
+- 👋 Hi, I’m @lettingitslide (aka JET (aka James Edward Tatum))
 - 👀 I’m interested in programming, trombone (hence "lettingItSlide), music, video games, MCU, Lego.
-- 🌱 I’m currently learning more Java Streams, databases and Algorithims.
-- 💞️ I’m looking to collaborate on furture app and web development.
+- 🌱 I’m currently learning more Java Streams, AWS, HTML & PHP, databases and Algorithims.
+- 💞️ I’m looking to collaborate on future app and web development.
 - 📫 How to reach me: https://lettingitslide.com
 
 <!---
